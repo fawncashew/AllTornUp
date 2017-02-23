@@ -1,2 +1,2 @@
 # AllTornUp
-Simple program using Torn's API
+A simple program utilizing Torn's API. 
